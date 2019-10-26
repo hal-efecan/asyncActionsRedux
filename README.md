@@ -10,9 +10,9 @@ State = {
     error: ''
 }
 
-loading - E.g - Displays a loading spinner in your component
-data - This would be the list of users
-error - Displays an error message to the user
+Loading - E.g - Displays a loading spinner in your component,
+Data - This would be the list of users
+Error - Displays an error message to the user
 
 || ACTIONS ||
 
