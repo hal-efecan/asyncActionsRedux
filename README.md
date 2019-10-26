@@ -1,4 +1,6 @@
-An application to test Asynchronous requests using redux
+An application to test Asynchronous API requests using redux
+
+Using - Redux, Redux-Thunk & Axios
 
 || STATE ||
 
